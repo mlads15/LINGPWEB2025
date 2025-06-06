@@ -4,7 +4,7 @@ função TRIM remove os espaços de ums string, tanto no início quanto no final
 
 TRABALHO LINGUAGEM DE PROGRAMAÇÃO PRA WEB:
 
-pagina onde sera possivel cadastrar musicas com titulo, autor, nome do album, foto do album (LINK), genero (SELECT) e cor do card (SELECT)
+pagina onde sera possivel cadastrar musicas com titulo, autor, nome do album, foto do album (LINK), genero (SELECT) e cor do card (SELECT, selecionado por uma unica letra. ex: V pra vermelho)
 a ideia do trabalho é programar cardzinhos de musica como os cards que aparecem ao compartilhar links de musica do SPOTIFY no story do instagram
 deve ser utilizado PHP, HTML, CSS e JAVASCRIPT
 eu i sarah :3
